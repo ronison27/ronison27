@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ronison V</h1>
+<h1 align="center"> I'm Ronison V</h1>
 <h3 align="center">ECE Graduate | Electronics & Production Engineer | Coimbatore, India 🇮🇳</h3>
 
 <p align="center">
@@ -35,6 +35,7 @@
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-00979D?style=flat&logo=arduino&logoColor=white)
 ![RFID](https://img.shields.io/badge/RFID-FF6F00?style=flat&logo=nfc&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=Python&logoColor=black)
 
 ---
 
@@ -44,7 +45,7 @@
 |---------|-------------|------|------|
 | 🛒 **Groces** | Smart grocery list app with categories & share | HTML, CSS, JS | [Live](https://ronison27.github.io/groces-grocery-app/) |
 | ⚡ **FlashFeed** | Real-time news app with dark mode & bookmarks | HTML, CSS, JS, GNews API | [Live](https://ronison27.github.io/Newsflash_feed-/) |
-
+| 🤖 **resume-updater-bot** | AI-powered Telegram bot that updates resumes based on job descriptions | python,python-telegram-bot,Groq / Gemini / OpenRouter / Cohere / HuggingFace apis | [Live](https://github.com/ronison27/resume-updater-bot) |
 ---
 
 ### 📊 GitHub Stats
@@ -54,6 +55,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronison27&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ronison27&repo=python&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 ---
 
 ### 🏭 Work Experience
